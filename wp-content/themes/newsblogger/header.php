@@ -38,4 +38,5 @@
 				do_action( 'newscrunch_header' );
 			}
 			
+			
 		endif;

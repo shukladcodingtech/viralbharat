@@ -17,7 +17,7 @@ if ( ! function_exists( 'wp_body_open' ) ) {
         /**
          * Triggered after the opening <body> tag.
          */
-        do_action( 'wp_body_open' );
+        do_action( 'wp_body_close' );
     }
 }
 

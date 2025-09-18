@@ -35,7 +35,7 @@
 				get_template_part( 'partials/header/header-nav' );
 			}
 			else {
-				do_action( 'newscrunch_header' );
+				do_action( 'newscrunch_headershloulder' );
 			}
 			
 		endif;

@@ -21,7 +21,7 @@ NewsBlogger is a dynamic and versatile child theme for the popular NewCrunch Wor
 3. Click Activate to use your new theme right away.
 
 == Keyboard navigation ==
-
+ 
 Keyboard navigation is working properly in the forward direction by using the tab key. For the reverse direction, Shift+Tab key is working on all the parent menus and if the dropdown menus are open then it is working on it. The focus is moving back to the parent menu having submenus from the next menu in a reverse direction. The menu that have #, once it is open then dropdown menus are open by using the space key.
 
 == Copyright ==

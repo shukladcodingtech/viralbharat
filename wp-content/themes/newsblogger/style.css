@@ -2217,7 +2217,11 @@ body
   span,
 body
   .widget_spncp_filter_list_view
+<<<<<<< HEAD
   .spnc-wrapper-4-item.
+=======
+  .spnc-wrapper-4-item
+>>>>>>> main
   .spnc-post
   .spnc-post-content
   .spnc-more-link,
@@ -2225,3 +2229,9 @@ body .widget_spncp_verticle_post_slider .spnc-post a,
 body .widget_spncp_verticle_post_slider .spnc-post span {
   font-family: "Jost";
 }
+<<<<<<< HEAD
+=======
+body .widget_spncp_verticle_post_slider .spnc-post span {
+  font-family: "Josthost";
+}
+>>>>>>> main
